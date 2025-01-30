@@ -27,6 +27,15 @@
   <code><img height="35" src="https://skillicons.dev/icons?i=git"></code>&nbsp;
   <code><img height="35" src="https://skillicons.dev/icons?i=docker"></code>&nbsp;
   <code><img height="35" src="https://skillicons.dev/icons?i=aws"></code>&nbsp;
+  <code><img height="35" src="https://skillicons.dev/icons?i=gcp"></code>&nbsp;
+  <code><img height="35" src="https://skillicons.dev/icons?i=jenkins"></code>&nbsp;
+  <code><img height="35" src="https://skillicons.dev/icons?i=kubernetes"></code>&nbsp;
+  <code><img height="35" src="https://skillicons.dev/icons?i=postgresql"></code>&nbsp;
+  <code><img height="35" src="https://skillicons.dev/icons?i=mongodb"></code>&nbsp;
+  <code><img height="35" src="https://skillicons.dev/icons?i=laravel"></code>&nbsp;
+  <code><img height="35" src="https://skillicons.dev/icons?i=django"></code>&nbsp;
+  <code><img height="35" src="https://skillicons.dev/icons?i=nextjs"></code>&nbsp;
+  <code><img height="35" src="https://skillicons.dev/icons?i=tailwindcss"></code>
 </p>
 
 ---
@@ -51,7 +60,6 @@
 
 ## 📬 How to reach me:
 - [GitHub](https://github.com/RootBestDev)
-- [LinkedIn](https://www.linkedin.com/in/wassim)
 
 ---
 
