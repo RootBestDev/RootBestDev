@@ -1,5 +1,3 @@
-# Hi there, I'm Wassim! 👨‍💻
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%2C+I'm+Wassim+🎓)
 ---
 
